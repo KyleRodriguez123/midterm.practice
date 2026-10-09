@@ -1,0 +1,27 @@
+{
+  "name": "group5_sectiona",
+  "version": "1.0.0",
+  "description": "Classroom midterm",
+  "keywords": [
+    "sia",
+    "midterms"
+  ],
+  "homepage": "https://github.com/KyleRodriguez123/midterm.practice#readme",
+  "bugs": {
+    "url": "https://github.com/KyleRodriguez123/midterm.practice/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KyleRodriguez123/midterm.practice.git"
+  },
+  "license": "ISC",
+  "author": "Calingacion, Garcia, Nawanao, Nillas, Plete, Rodriguez",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
