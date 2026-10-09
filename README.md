@@ -10,5 +10,6 @@
 | Fraulien Calingacion | routes/users.routes.js | feature/fraulien-users | [PR #1](link) |
 | Samantha Garcia | routes/products.routes.js | feature/samantha-products | [PR #2](link) |
 | Renz Nawanao | routes/orders.routes.js | feature/renz-orders | [PR #3](link) |
-| Gladys Pearl Nillas | routes/categories.routes.js | feature/gladys-categories | [PR #3](link) |
-| Myrtle Plete | routes/suppliers.routes.js | feature/myrtle-suppliers | [PR #3](link) |
+| Gladys Pearl Nillas | routes/categories.routes.js | feature/gladys-categories | [PR #4](link) |
+| Myrtle Plete | routes/suppliers.routes.js | feature/myrtle-suppliers | [PR #5](link) |
+| Kyle Rodriguez | Main | feature/kyle-main | [PR #6](link) |
